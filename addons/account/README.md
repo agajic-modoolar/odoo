@@ -1,6 +1,8 @@
 Odoo Accounting
 ---------------
 
+THIS IS GAJA TEST!
+
 The Odoo <a href="https://www.odoo.com/page/accounting">Open Source Accounting</a> app allows a better way to
 collaborate with your accountants, your customers and control your suppliers.
 
