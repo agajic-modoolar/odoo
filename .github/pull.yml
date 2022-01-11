@@ -1,23 +1,23 @@
 version: "1"
 rules:
   - base: master
-    upstream: odoo:odoo
+    upstream: odoo:master
     mergeMethod: hardreset
   - base: "15.0"
-    upstream: odoo:odoo
+    upstream: odoo:15.0
     mergeMethod: hardreset
   - base: "14.0"
-    upstream: odoo:odoo
+    upstream: odoo:14.0
     mergeMethod: hardreset
   - base: "13.0"
-    upstream: odoo:odoo
+    upstream: odoo:13.0
     mergeMethod: hardreset
   - base: "12.0"
-    upstream: odoo:odoo
+    upstream: odoo:12.0
     mergeMethod: hardreset
   - base: "11.0"
-    upstream: odoo:odoo
+    upstream: odoo:11.0
     mergeMethod: hardreset
   - base: "10.0"
-    upstream: odoo:odoo
+    upstream: odoo:10.0
     mergeMethod: hardreset
